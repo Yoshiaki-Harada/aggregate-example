@@ -1,4 +1,4 @@
-package factory
+package root
 
 class MaxNumberOfWishesExceededException : Throwable() {
 

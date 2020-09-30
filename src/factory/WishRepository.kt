@@ -1,4 +1,4 @@
-package root
+package factory
 
 interface WishRepository {
     fun save(wish: Wish)
